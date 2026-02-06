@@ -1,9 +1,10 @@
 # Authors
+
 default:
-  name        : "Ryo Emori"
-  uri         : "https://emoriryo-cell.github.io"
-  email       : "emoriryo@g.ecc.u-tokyo.ac.jp"
-  bio         : "Astrophysics graduate student working on first galaxies, extremely metal-poor systems, and early black hole growth."
-  avatar      : "/images/IMG_6903.png"
-  location    : "Japan"
-  employer    : "University of Tokyo"
+  name: "Ryo Emori"
+  uri: "https://emoriryo-cell.github.io"
+  email: "emoriryo@g.ecc.u-tokyo.ac.jp"
+  bio: "Astrophysics graduate student working on first galaxies, extremely metal-poor systems, and early black hole growth."
+  avatar: "/images/IMG_6903.png"
+  location: "Japan"
+  employer: "University of Tokyo"
